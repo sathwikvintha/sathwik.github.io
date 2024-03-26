@@ -5,6 +5,7 @@ Major - Computer Science Engineering
 CGPA - 8.29
 ```
 ### School : Maharishi Vidya Mandir 
+```
          XII - 94%  (2019 - 2021)
                Subjects:
                  Math - 97%
@@ -13,7 +14,7 @@ CGPA - 8.29
                  Chemistry - 94%
                  English - 94%
          X - 91%   (2018 - 2019)
-
+```
 ## Core Skills
 ### Language
 C, Python, Java Script
