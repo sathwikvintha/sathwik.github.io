@@ -1,7 +1,9 @@
 ## Education
 ### Shiv Nadar University (2021 - 2025)
-Major - Computer Science Engineering,
+'''
+Major - Computer Science Engineering
 CGPA - 8.29
+'''
 ### School : Maharishi Vidya Mandir 
          XII - 94%  (2019 - 2021)
                Subjects:
@@ -21,5 +23,9 @@ Prisma, Vscode, Git
 Next.js, React.js, Tailwind CSS, Selenium, Bootstrap
 ### Attributes
 MySql, Node.js, Express.js
+
+## Projects
+### E-Commerce + Dashboard & CMS | May 23 | Next.js, KindeAuth, MySQL, Tailwind, Prisma
+
 
 
