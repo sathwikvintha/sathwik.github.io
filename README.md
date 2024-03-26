@@ -27,6 +27,13 @@ MySql, Node.js, Express.js
 
 ## Projects
 ### E-Commerce + Dashboard & CMS | May 23 | Next.js, KindeAuth, MySQL, Tailwind, Prisma
++ The Goal of this Project is to provide an external Dashboard and CMS website together with a full-stack e-commerce solution
++ Tools Used – Next.js 13, Prisma, MySQL, and Planet-Scale Tailwind CSS were used in developing both
+the Admin and the User Portal. Auth for the online store and Clerk Auth for the Administrative Panel.
+Cloudinary for uploading Images, and connecting safe APIs to admin and e-commerce.
++ Website with admin-only access, sales graphs, and product verification has been successfully
+launched.
+
 
 
 
