@@ -1,8 +1,8 @@
 ## Education
-Shiv Nadar University (2021 - 2025)
+#Shiv Nadar University (2021 - 2025)
 Major - Computer Science Engineering
 CGPA - 8.29
-School : Maharishi Vidya Mandir 
+#School : Maharishi Vidya Mandir 
          XII - 94%  (2019 - 2021)
                Subjects:
                  Math - 97%
