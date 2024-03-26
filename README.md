@@ -53,6 +53,12 @@ HTML content using libraries, Utilized the APIs
 + User Experience: They can easily enter song details and website URLs, and can Download with a single
 click, progress, and history are viewed, as playlist creation, search functionalities, etc.
 
+### Railway Web Application
++ This project is a railway web application designed for both administrators and users. It facilitates various functionalities such as ticket booking, ticket cancellation, train inquiry, and display of booked tickets.
++ For administrators, the system provides access to additional features such as railway database management, graphical analysis, and profile settings.
++ Users can book tickets, view their booked tickets, inquire about trains, and cancel tickets through a user-friendly interface.
++ The application also includes graphical analysis capabilities for administrators to gain insights into booking trends and other relevant data.
+
 
 ## Internship
 ### Corizo | Web Developer Intern 
@@ -79,7 +85,7 @@ project goals, user needs, or industry standards
 + Web Dev member in GDSC Club
 + Exploring Open-Source projects
 + Member of Go Green Club
-+ Been Part of Breeze Activity Team
++ Been Part of the Breeze Activity Team
 
 ## AWARDS & RECOGNITION
 + Qualified NTSE(National Talent Search Examination) during Grade X
