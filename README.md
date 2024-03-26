@@ -34,6 +34,51 @@ Cloudinary for uploading Images, and connecting safe APIs to admin and e-commerc
 + Website with admin-only access, sales graphs, and product verification has been successfully
 launched.
 
+### Python Music Downloader | Feb 21 | Python, PyQt5, SQL
++ PyQt5 is used to design a visually appealing and intuitive interface with elements like – Text input
+fields for song title and website URL, download button to initiate the process, and progress bar to
+visualize do, download history section to display the past downloads, etc
++ Tools used - Python, PyQt5, SQL, Scrapy Framework, sqlite3, pydub
+Python web scraping is employed to extract song data and download links from websites, Parsing
+HTML content using libraries, Utilized the APIs 
++ User Experience: They can easily enter song details and website URLs, and can Download with a single
+click, progress, and history are viewed, as playlist creation, search functionalities, etc.
+
+
+## Internship
+### Corizo | Web Developer Intern 
++ Collaborated with a team of developers, and project managers to optimize the back-end heavy
+traffic to the user's website 
++ Assisted in creating a database that manages heavy traffic and accordingly increases the usage of
+the application
++ Identify problems uncovered by testing or customer feedback, and correct problems or refer
+problems to appropriate personnel for correction
++  Played a crucial role in setting up instances as nodes and configuring clusters in the database which
+initially was mismatched with the user data, which led to the misusage of the source and the
+information.
++ Document technical factors such as server load, bandwidth, database performance, and browser
+and device types
+
+### Shiv Nadar University(GDSC Club) | Team Member
++ Develop website maps, application models, image templates, or page templates that meet
+project goals, user needs, or industry standards
++ Participated enthusiastically in club events and workshops sponsored by the GDSC Club
++ Worked on many group projects and deployed many successful works
+
+
+## CO-CURRICULAR
++ Web Dev member in GDSC Club
++ Exploring Open-Source projects
++ Member of Go Green Club
++ Been Part of Breeze Activity Team
+
+## AWARDS & RECOGNITION
++ Qualified NTSE(National Talent Search Examination) during Grade X
++ Been Part of IMO(International Math Olympiad)
+
+
+
+
 
 
 
