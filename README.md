@@ -1,8 +1,8 @@
 ```
-**Phn No:** 9342566756    
-**Mail Id:** sv364@snu.edu.in
-**Linked In:** https://www.linkedin.com/in/sathwikvintha/ 
-**Github Link:** https://github.com/sathwikvintha
+Phn No: 9342566756    
+Mail Id: sv364@snu.edu.in
+Linked In: https://www.linkedin.com/in/sathwikvintha/ 
+Github Link: https://github.com/sathwikvintha
 ```
 
 ## Education
@@ -14,7 +14,7 @@ CGPA - 8.29
 ### School : Maharishi Vidya Mandir 
 ```
 XII - 94%  (2019 - 2021)
-        #### Subjects:
+         Subjects:
           * Math - 97%
           * Computer Science - 93%
           * Physics - 93%
@@ -24,13 +24,13 @@ X - 91%   (2018 - 2019)
 ```
 ## Core Skills
 ```
-### Language
+Language:
 C, Python, Java Script
-### Tools
+Tools:
 Prisma, Vscode, Git
-### Framework
+Framework:
 Next.js, React.js, Tailwind CSS, Selenium, Bootstrap
-### Attributes
+Attributes:
 MySql, Node.js, Express.js
 ```
 
