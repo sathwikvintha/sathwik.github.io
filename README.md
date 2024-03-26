@@ -12,3 +12,14 @@ CGPA - 8.29
                  English - 94%
          X - 91%   (2018 - 2019)
 
+## Core Skills
+### Language
+C, Python, Java Script
+### Tools
+Prisma, Vscode, Git
+### Framework
+Next.js, React.js, Tailwind CSS, Selenium, Bootstrap
+### Attributes
+MySql, Node.js, Express.js
+
+
