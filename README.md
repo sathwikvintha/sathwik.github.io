@@ -7,7 +7,7 @@ CGPA - 8.29
 ### School : Maharishi Vidya Mandir 
 ```
 XII - 94%  (2019 - 2021)
-         Subjects:
+        #### Subjects:
           * Math - 97%
           * Computer Science - 93%
           * Physics - 93%
