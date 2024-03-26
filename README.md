@@ -5,6 +5,9 @@ Linked In: https://www.linkedin.com/in/sathwikvintha/
 Github Link: https://github.com/sathwikvintha
 ```
 
+## About Me
+I'm a Computer Science Engineering student at Shiv Nadar University, proficient in C, Python, and JavaScript. My projects include E-Commerce platforms and Python Music Downloaders, demonstrating my practical skills. During my internship at Corizo, I focused on optimizing website performance and database management. As a team manager and keen listener, I value collaboration and strive for effective communication. Active in clubs like GDSC, I'm passionate about environmental initiatives and committed to continuous learning. Ready to contribute effectively to any team, I bring dedication and adaptability to the table.
+
 ## Education
 ### Shiv Nadar University (2021 - 2025)
 ```
@@ -81,15 +84,6 @@ project goals, user needs, or industry standards
 + Worked on many group projects and deployed many successful works
 
 
-## CO-CURRICULAR
-+ Web Dev member in GDSC Club
-+ Exploring Open-Source projects
-+ Member of Go Green Club
-+ Been Part of the Breeze Activity Team
-
-## AWARDS & RECOGNITION
-+ Qualified NTSE(National Talent Search Examination) during Grade X
-+ Been Part of IMO(International Math Olympiad)
 
 
 
