@@ -1,4 +1,8 @@
-**Phn No:** 9342566756
+**Phn No:** 9342566756    
+**Mail Id:** sv364@snu.edu.in
+**Linked In:** https://www.linkedin.com/in/sathwikvintha/ 
+**Github Link:** https://github.com/sathwikvintha
+
 
 ## Education
 ### Shiv Nadar University (2021 - 2025)
